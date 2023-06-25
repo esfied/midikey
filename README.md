@@ -1,7 +1,5 @@
-# midikey
-A MIDI to Keyboard translator made in Swift for Mac.
+# midikey v0.1
+A MIDI to Keyboard translator developed in Swift for Mac. It is specifically designed for playing the piano in Roblox.
 
 ## Usage
 1. Upon building, a permission for keyboard access is required.
-
-Currently making the UI.
