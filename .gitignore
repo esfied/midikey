@@ -1,0 +1,19 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+*.pbxuser
+*.xcworkspace/
+*.xcuserstate
+
+# Dependency managers
+Pods/
+Podfile.lock
+Carthage/Build/
+
+# Sensitive or environment-specific files
+config.plist
+
+# Other
+secret.txt
